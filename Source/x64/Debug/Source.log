@@ -1,0 +1,73 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Source.vcxproj, tutorial8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bullet.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\bullet.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  controller.cpp
+  Enemy.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(79): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(80): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(89): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(90): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(138): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Enemy_1.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(60): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(61): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(66): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(67): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy_1.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+  main.cpp
+  model.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\model.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\model.cpp(63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\model.cpp(90): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(44): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(60): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(68): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(101): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\player.cpp(117): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  view.cpp
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\view.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+c:\users\thomas\documents\visual studio 2015\projects\comp2501 a3\source\enemy.cpp(159): warning C4715: 'Enemy::getAngle': not all control paths return a value
+  Source.vcxproj -> C:\Users\Thomas\Documents\Visual Studio 2015\Projects\COMP2501 A3\x64\Debug\Assignment3.exe
